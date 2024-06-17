@@ -1,6 +1,6 @@
 {
   "name": "@ahstream/echo-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Echo library",
   "main": "src/index.js",
   "type": "module",
@@ -11,5 +11,8 @@
     "echo"
   ],
   "author": "ahstream",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@ahstream/echo-lib": "^1.0.0"
+  }
 }
