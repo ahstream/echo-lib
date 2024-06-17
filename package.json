@@ -1,0 +1,15 @@
+{
+  "name": "@ahstream/echo-lib",
+  "version": "1.0.0",
+  "description": "Echo library",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo"
+  ],
+  "author": "ahstream",
+  "license": "ISC"
+}
